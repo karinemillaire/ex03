@@ -75,7 +75,9 @@ header {
 .bouton1 span:last-child {
   color: #c62828;
 }
-
+.bouton:hover {
+  box-shadow: -5px 5px 2px rgba(0, 0, 0, 0.4) inset;
+}
 /*
     #3 
     Au survol des sections, mettre une ombre interne aux boutons :
