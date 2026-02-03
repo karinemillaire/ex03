@@ -109,7 +109,7 @@ header {
 .bouton2 {
   display: flex;
   justify-content: center;
-  background-image: linear-gradient( to bottom,#a7cedd,#265488) ;
+  background-image: url(..//images/nageur.svg), url(..//images/ombrelle.svg), linear-gradient( to bottom,#a7cedd,#265488) ;
   /*
         #5
         Mettre un arrière-plan en dégradé de la couleur #a7cedd à la couleur #265488 du bas vers le haut.
