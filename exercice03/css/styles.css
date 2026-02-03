@@ -93,7 +93,7 @@ header {
 .bouton1 {
   display: flex;
   justify-content: space-between;
-
+  background-image: linear-gradient(160deg,#c62828 50%,#f44336 50%) ;
   /*
         #4 
         Mettre un arrière-plan en dégradé de la couleur #c62828 à la couleur #f44336
@@ -109,7 +109,7 @@ header {
 .bouton2 {
   display: flex;
   justify-content: center;
-
+  background-image: linear-gradient( to bottom,#a7cedd,#265488) ;
   /*
         #5
         Mettre un arrière-plan en dégradé de la couleur #a7cedd à la couleur #265488 du bas vers le haut.
